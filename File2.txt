@@ -1,1 +1,4 @@
 thisn is file2 document
+
+
+new text add in dev1
